@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reddit-client/static/css/main.cef03481.css",
+    "main.js": "/reddit-client/static/js/main.44a07223.js",
+    "index.html": "/reddit-client/index.html",
+    "main.cef03481.css.map": "/reddit-client/static/css/main.cef03481.css.map",
+    "main.44a07223.js.map": "/reddit-client/static/js/main.44a07223.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cef03481.css",
+    "static/js/main.44a07223.js"
+  ]
+}
