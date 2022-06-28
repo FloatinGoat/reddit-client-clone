@@ -1,0 +1,4 @@
+.cards-container {
+  max-width: 850px;
+  background-color: var(--color-white);
+}
